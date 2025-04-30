@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <a href="[nullitytrace](https://discordapp.com/users/nullitytrace)" target="_blank">
+  <a href="nullitytrace" target="https://discordapp.com/users/nullitytrace">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=light&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
